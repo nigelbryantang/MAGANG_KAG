@@ -1,2 +1,9 @@
 /Android_app/build/
-
+/Android_app/.dart_tool/
+/Android_app/.flutter-plugins/
+/Android_app/.idea/misc.xml/
+/Android_app/android/app/src/main/java/
+/Android_app/android/gradlew/
+/Android_app/android/local.properties/
+/Android_app/ios/
+/Android_app/macos/
